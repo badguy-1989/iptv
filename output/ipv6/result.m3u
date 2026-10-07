@@ -1,0 +1,283 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/badguy-1989/iptv/refs/heads/master/output/epg/epg.gz"
+#EXTINF:-1 tvg-name="QVC Japan" tvg-logo="http://10.1.0.119:5180/logo/QVC Japan.png" group-title="日本",QVC Japan
+https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+#EXTINF:-1 tvg-name="Weathernews Japan" tvg-logo="http://10.1.0.119:5180/logo/Weathernews Japan.png" group-title="日本",Weathernews Japan
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+#EXTINF:-1 tvg-name="23 ABC Bakersfield CA (KERO) (720p)" tvg-logo="http://10.1.0.119:5180/logo/23 ABC Bakersfield CA (KERO) (720p).png" group-title="美國",23 ABC Bakersfield CA (KERO) (720p)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 tvg-name="24 Hour Free Movies (720p)" tvg-logo="http://10.1.0.119:5180/logo/24 Hour Free Movies (720p).png" group-title="美國",24 Hour Free Movies (720p)
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
+#EXTINF:-1 tvg-name="ABC 7 Denver CO (KMGH) (720p)" tvg-logo="http://10.1.0.119:5180/logo/ABC 7 Denver CO (KMGH) (720p).png" group-title="美國",ABC 7 Denver CO (KMGH) (720p)
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 tvg-name="ABC 13 Las Vegas NV (KTNV) (720p)" tvg-logo="http://10.1.0.119:5180/logo/ABC 13 Las Vegas NV (KTNV) (720p).png" group-title="美國",ABC 13 Las Vegas NV (KTNV) (720p)
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+#EXTINF:-1 tvg-name="ABC 15 Phoenix AZ (KNXV-TV) (720p)" tvg-logo="http://10.1.0.119:5180/logo/ABC 15 Phoenix AZ (KNXV-TV) (720p).png" group-title="美國",ABC 15 Phoenix AZ (KNXV-TV) (720p)
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+#EXTINF:-1 tvg-name="ABC 25 News Central Texas" tvg-logo="http://10.1.0.119:5180/logo/ABC 25 News Central Texas.png" group-title="美國",ABC 25 News Central Texas
+https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
+#EXTINF:-1 tvg-name="ABC Tallahassee (720p) [Not 24/7]" tvg-logo="http://10.1.0.119:5180/logo/ABC Tallahassee (720p) [Not 24/7].png" group-title="美國",ABC Tallahassee (720p) [Not 24/7]
+https://content.uplynk.com/channel/c66d1d2d9e2c46cea1cf22a33f6ca488.m3u8
+#EXTINF:-1 tvg-name="America's Voice (720p)" tvg-logo="http://10.1.0.119:5180/logo/America's Voice (720p).png" group-title="美國",America's Voice (720p)
+https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
+#EXTINF:-1 tvg-name="Artflix Movie Classics (720p)" tvg-logo="http://10.1.0.119:5180/logo/Artflix Movie Classics (720p).png" group-title="美國",Artflix Movie Classics (720p)
+https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="AWE (720p)" tvg-logo="http://10.1.0.119:5180/logo/AWE (720p).png" group-title="美國",AWE (720p)
+https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="AWE Encore (720p) [Geo-blocked]" tvg-logo="http://10.1.0.119:5180/logo/AWE Encore (720p) [Geo-blocked].png" group-title="美國",AWE Encore (720p) [Geo-blocked]
+https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
+#EXTINF:-1 tvg-name="Baby Shark TV (720p)" tvg-logo="http://10.1.0.119:5180/logo/Baby Shark TV (720p).png" group-title="美國",Baby Shark TV (720p)
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Earth (1080p) [Geo-blocked]" tvg-logo="http://10.1.0.119:5180/logo/BBC Earth (1080p) [Geo-blocked].png" group-title="美國",BBC Earth (1080p) [Geo-blocked]
+https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Bounce XL (1080p)" tvg-logo="http://10.1.0.119:5180/logo/Bounce XL (1080p).png" group-title="美國",Bounce XL (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="Brat TV (720p) [Geo-blocked]" tvg-logo="http://10.1.0.119:5180/logo/Brat TV (720p) [Geo-blocked].png" group-title="美國",Brat TV (720p) [Geo-blocked]
+https://amg00350-amg00350c1-klowdtv-us-2536.playouts.now.amagi.tv/playlist/amg00350-bratstudiofast-brat-klowdtvus/playlist.m3u8
+#EXTINF:-1 tvg-name="BUTV10 (Boston University) (1080p) [Not 24/7]" tvg-logo="http://10.1.0.119:5180/logo/BUTV10 (Boston University) (1080p) [Not 24/7].png" group-title="美國",BUTV10 (Boston University) (1080p) [Not 24/7]
+https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-name="BX Arts (720p)" tvg-logo="http://10.1.0.119:5180/logo/BX Arts (720p).png" group-title="美國",BX Arts (720p)
+https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8
+#EXTINF:-1 tvg-name="BX Culture (720p)" tvg-logo="http://10.1.0.119:5180/logo/BX Culture (720p).png" group-title="美國",BX Culture (720p)
+https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8
+#EXTINF:-1 tvg-name="BX Inform (1080p)" tvg-logo="http://10.1.0.119:5180/logo/BX Inform (1080p).png" group-title="美國",BX Inform (1080p)
+https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8
+#EXTINF:-1 tvg-name="BX Omni (720p)" tvg-logo="http://10.1.0.119:5180/logo/BX Omni (720p).png" group-title="美國",BX Omni (720p)
+https://reflect-stream-bronxnet.cablecast.tv/live-16/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-name="BYU TV (1080p) [Geo-blocked]" tvg-logo="http://10.1.0.119:5180/logo/BYU TV (1080p) [Geo-blocked].png" group-title="美國",BYU TV (1080p) [Geo-blocked]
+https://amg02604-byutv-amg02604c2-firetv-us-4981.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="CBS 3 Omaha NE (KMTV-TV) (720p)" tvg-logo="http://10.1.0.119:5180/logo/CBS 3 Omaha NE (KMTV-TV) (720p).png" group-title="美國",CBS 3 Omaha NE (KMTV-TV) (720p)
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1 tvg-name="CBS News 24/7" tvg-logo="http://10.1.0.119:5180/logo/CBS News 24/7.png" group-title="美國",CBS News 24/7
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-name="CBS News Miami (720p)" tvg-logo="http://10.1.0.119:5180/logo/CBS News Miami (720p).png" group-title="美國",CBS News Miami (720p)
+https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+#EXTINF:-1 tvg-name="CBS News Sacramento (720p)" tvg-logo="http://10.1.0.119:5180/logo/CBS News Sacramento (720p).png" group-title="美國",CBS News Sacramento (720p)
+https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
+#EXTINF:-1 tvg-name="CCX1 (1080p)" tvg-logo="http://10.1.0.119:5180/logo/CCX1 (1080p).png" group-title="美國",CCX1 (1080p)
+http://reflect-ccx.cablecast.tv/live-9/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-name="Cine Adrenalina (720p)" tvg-logo="http://10.1.0.119:5180/logo/Cine Adrenalina (720p).png" group-title="美國",Cine Adrenalina (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
+#EXTINF:-1 tvg-name="Cinevault 80s (540p) [Geo-blocked]" tvg-logo="http://10.1.0.119:5180/logo/Cinevault 80s (540p) [Geo-blocked].png" group-title="美國",Cinevault 80s (540p) [Geo-blocked]
+https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Cinevault Westerns (540p) [Geo-blocked]" tvg-logo="http://10.1.0.119:5180/logo/Cinevault Westerns (540p) [Geo-blocked].png" group-title="美國",Cinevault Westerns (540p) [Geo-blocked]
+https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Circle [Geo-blocked]" tvg-logo="http://10.1.0.119:5180/logo/Circle [Geo-blocked].png" group-title="美國",Circle [Geo-blocked]
+https://amg00432-circletvfast-amg00432c1-cineverse-us-1112.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-cineverseus/playlist.m3u8
+#EXTINF:-1 tvg-name="Cloudflare TV (720p)" tvg-logo="http://10.1.0.119:5180/logo/Cloudflare TV (720p).png" group-title="美國",Cloudflare TV (720p)
+https://cloudflare.tv/hls/live.m3u8
+#EXTINF:-1 tvg-name="Concord TV (Concord CA) (720p)" tvg-logo="http://10.1.0.119:5180/logo/Concord TV (Concord CA) (720p).png" group-title="美國",Concord TV (Concord CA) (720p)
+https://concordca.cablecast.tv/live/stream-2/live.m3u8
+#EXTINF:-1 tvg-name="Court TV (1080p)" tvg-logo="http://10.1.0.119:5180/logo/Court TV (1080p).png" group-title="美國",Court TV (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="Create" tvg-logo="http://10.1.0.119:5180/logo/Create.png" group-title="美國",Create
+https://create.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-name="CreaTV Bay Voice TV Channel 27 (San Jose CA) (720p)" tvg-logo="http://10.1.0.119:5180/logo/CreaTV Bay Voice TV Channel 27 (San Jose CA) (720p).png" group-title="美國",CreaTV Bay Voice TV Channel 27 (San Jose CA) (720p)
+https://reflect-creatv.cablecast.tv/live-19/live/live.m3u8
+#EXTINF:-1 tvg-name="CreaTV Classrooms Channel 28 (San Jose CA) (720p)" tvg-logo="http://10.1.0.119:5180/logo/CreaTV Classrooms Channel 28 (San Jose CA) (720p).png" group-title="美國",CreaTV Classrooms Channel 28 (San Jose CA) (720p)
+https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8
+#EXTINF:-1 tvg-name="CreaTV Community Channel 15 (San Jose CA) (720p)" tvg-logo="http://10.1.0.119:5180/logo/CreaTV Community Channel 15 (San Jose CA) (720p).png" group-title="美國",CreaTV Community Channel 15 (San Jose CA) (720p)
+https://reflect-creatv.cablecast.tv/live-13/live/live.m3u8
+#EXTINF:-1 tvg-name="CreaTV The Outlet Channel 30 (San Jose CA) (720p)" tvg-logo="http://10.1.0.119:5180/logo/CreaTV The Outlet Channel 30 (San Jose CA) (720p).png" group-title="美國",CreaTV The Outlet Channel 30 (San Jose CA) (720p)
+https://reflect-creatv.cablecast.tv/live-16/live/live.m3u8
+#EXTINF:-1 tvg-name="Crime 360 (720p)" tvg-logo="http://10.1.0.119:5180/logo/Crime 360 (720p).png" group-title="美國",Crime 360 (720p)
+https://94a3e237.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-name="Dark Matter TV (720p)" tvg-logo="http://10.1.0.119:5180/logo/Dark Matter TV (720p).png" group-title="美國",Dark Matter TV (720p)
+https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Dateline 24/7" tvg-logo="http://10.1.0.119:5180/logo/Dateline 24/7.png" group-title="美國",Dateline 24/7
+https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
+#EXTINF:-1 tvg-name="Don't Tell The Bride (1080p)" tvg-logo="http://10.1.0.119:5180/logo/Don't Tell The Bride (1080p).png" group-title="美國",Don't Tell The Bride (1080p)
+https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Dry Bar Comedy (720p)" tvg-logo="http://10.1.0.119:5180/logo/Dry Bar Comedy (720p).png" group-title="美國",Dry Bar Comedy (720p)
+https://drybar-drybarcomedy-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Failarmy International (720p)" tvg-logo="http://10.1.0.119:5180/logo/Failarmy International (720p).png" group-title="美國",Failarmy International (720p)
+https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="FanDuel Racing" tvg-logo="http://10.1.0.119:5180/logo/FanDuel Racing.png" group-title="美國",FanDuel Racing
+https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
+#EXTINF:-1 tvg-name="FITE 24/7 (1080p)" tvg-logo="http://10.1.0.119:5180/logo/FITE 24/7 (1080p).png" group-title="美國",FITE 24/7 (1080p)
+https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
+#EXTINF:-1 tvg-name="FNX" tvg-logo="http://10.1.0.119:5180/logo/FNX.png" group-title="美國",FNX
+https://fnx.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-name="Fort Collins Cable TV (FCTV) (Fort Collins CO) (1080p)" tvg-logo="http://10.1.0.119:5180/logo/Fort Collins Cable TV (FCTV) (Fort Collins CO) (1080p).png" group-title="美國",Fort Collins Cable TV (FCTV) (Fort Collins CO) (1080p)
+https://reflect-vod-fcgov.cablecast.tv/live-9/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-name="Free Speech TV (720p)" tvg-logo="http://10.1.0.119:5180/logo/Free Speech TV (720p).png" group-title="美國",Free Speech TV (720p)
+https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
+#EXTINF:-1 tvg-name="Game Show Network East (720p) [Not 24/7]" tvg-logo="http://10.1.0.119:5180/logo/Game Show Network East (720p) [Not 24/7].png" group-title="美國",Game Show Network East (720p) [Not 24/7]
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="Global Fashion Channel (1080p)" tvg-logo="http://10.1.0.119:5180/logo/Global Fashion Channel (1080p).png" group-title="美國",Global Fashion Channel (1080p)
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:-1 tvg-name="Grit Xtra (1080p)" tvg-logo="http://10.1.0.119:5180/logo/Grit Xtra (1080p).png" group-title="美國",Grit Xtra (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="Hi-YAH! (1080p)" tvg-logo="http://10.1.0.119:5180/logo/Hi-YAH! (1080p).png" group-title="美國",Hi-YAH! (1080p)
+https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="History Hit (720p)" tvg-logo="http://10.1.0.119:5180/logo/History Hit (720p).png" group-title="美國",History Hit (720p)
+https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="HollyWire (720p)" tvg-logo="http://10.1.0.119:5180/logo/HollyWire (720p).png" group-title="美國",HollyWire (720p)
+https://bozztv.com/hwotta/playlist/playlist.m3u8
+#EXTINF:-1 tvg-name="Impossible Quiz Show (1080p)" tvg-logo="http://10.1.0.119:5180/logo/Impossible Quiz Show (1080p).png" group-title="美國",Impossible Quiz Show (1080p)
+https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="ION Plus (1080p)" tvg-logo="http://10.1.0.119:5180/logo/ION Plus (1080p).png" group-title="美國",ION Plus (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="Just For Laughs Gags (720p)" tvg-logo="http://10.1.0.119:5180/logo/Just For Laughs Gags (720p).png" group-title="美國",Just For Laughs Gags (720p)
+https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="KDFW-DT1 (1080p)" tvg-logo="http://10.1.0.119:5180/logo/KDFW-DT1 (1080p).png" group-title="美國",KDFW-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
+#EXTINF:-1 tvg-name="KMSP-DT1 (1080p)" tvg-logo="http://10.1.0.119:5180/logo/KMSP-DT1 (1080p).png" group-title="美國",KMSP-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="KNBC-DT1 (1080p)" tvg-logo="http://10.1.0.119:5180/logo/KNBC-DT1 (1080p).png" group-title="美國",KNBC-DT1 (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream1/master.m3u8
+#EXTINF:-1 tvg-name="KOKI-DT1 (1080p)" tvg-logo="http://10.1.0.119:5180/logo/KOKI-DT1 (1080p).png" group-title="美國",KOKI-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-name="KQED-DT2" tvg-logo="http://10.1.0.119:5180/logo/KQED-DT2.png" group-title="美國",KQED-DT2
+https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
+#EXTINF:-1 tvg-name="KRIS-DT1 (1080p)" tvg-logo="http://10.1.0.119:5180/logo/KRIS-DT1 (1080p).png" group-title="美國",KRIS-DT1 (1080p)
+https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8
+#EXTINF:-1 tvg-name="KRIV-DT1 (1080p)" tvg-logo="http://10.1.0.119:5180/logo/KRIV-DT1 (1080p).png" group-title="美國",KRIV-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="KSBY News San Louis Obispo CA (720p)" tvg-logo="http://10.1.0.119:5180/logo/KSBY News San Louis Obispo CA (720p).png" group-title="美國",KSBY News San Louis Obispo CA (720p)
+https://content.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610.m3u8
+#EXTINF:-1 tvg-name="KSHB 41 (Kansas City MO) (720p)" tvg-logo="http://10.1.0.119:5180/logo/KSHB 41 (Kansas City MO) (720p).png" group-title="美國",KSHB 41 (Kansas City MO) (720p)
+https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
+#EXTINF:-1 tvg-name="KTBC-DT1 (1080p)" tvg-logo="http://10.1.0.119:5180/logo/KTBC-DT1 (1080p).png" group-title="美國",KTBC-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="KTTV-DT1 (1080p)" tvg-logo="http://10.1.0.119:5180/logo/KTTV-DT1 (1080p).png" group-title="美國",KTTV-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
+#EXTINF:-1 tvg-name="KVIE-DT2" tvg-logo="http://10.1.0.119:5180/logo/KVIE-DT2.png" group-title="美國",KVIE-DT2
+https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
+#EXTINF:-1 tvg-name="KZTV-DT1 (720p)" tvg-logo="http://10.1.0.119:5180/logo/KZTV-DT1 (720p).png" group-title="美國",KZTV-DT1 (720p)
+https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8
+#EXTINF:-1 tvg-name="Lakewood CityTV (720p)" tvg-logo="http://10.1.0.119:5180/logo/Lakewood CityTV (720p).png" group-title="美國",Lakewood CityTV (720p)
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/lakewood/live/ch1/video.m3u8
+#EXTINF:-1 tvg-name="Lego Channel (1080p)" tvg-logo="http://10.1.0.119:5180/logo/Lego Channel (1080p).png" group-title="美國",Lego Channel (1080p)
+https://jmp2.uk/stvp-GBBC4300005AL
+#EXTINF:-1 tvg-name="LiveNOW from FOX (720p) [Geo-blocked]" tvg-logo="http://10.1.0.119:5180/logo/LiveNOW from FOX (720p) [Geo-blocked].png" group-title="美國",LiveNOW from FOX (720p) [Geo-blocked]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="LiveXLive" tvg-logo="http://10.1.0.119:5180/logo/LiveXLive.png" group-title="美國",LiveXLive
+https://livestream.liveone.com/lc1/p1.m3u8
+#EXTINF:-1 tvg-name="Love Nature en Espanol [Geo-blocked]" tvg-logo="http://10.1.0.119:5180/logo/Love Nature en Espanol [Geo-blocked].png" group-title="美國",Love Nature en Espanol [Geo-blocked]
+https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
+#EXTINF:-1 tvg-name="Made in Hollywood" tvg-logo="http://10.1.0.119:5180/logo/Made in Hollywood.png" group-title="美國",Made in Hollywood
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="MagellanTV Now (1080p)" tvg-logo="http://10.1.0.119:5180/logo/MagellanTV Now (1080p).png" group-title="美國",MagellanTV Now (1080p)
+https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-name="Maverick Black Cinema (1080p)" tvg-logo="http://10.1.0.119:5180/logo/Maverick Black Cinema (1080p).png" group-title="美國",Maverick Black Cinema (1080p)
+https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="NBA TV (1080p) [Geo-blocked]" tvg-logo="http://10.1.0.119:5180/logo/NBA TV (1080p) [Geo-blocked].png" group-title="美國",NBA TV (1080p) [Geo-blocked]
+https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="NBCLX" tvg-logo="http://10.1.0.119:5180/logo/NBCLX.png" group-title="美國",NBCLX
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1 tvg-name="Newsmax TV (720p)" tvg-logo="http://10.1.0.119:5180/logo/Newsmax TV (720p).png" group-title="美國",Newsmax TV (720p)
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 tvg-name="Ninja Kidz TV" tvg-logo="http://10.1.0.119:5180/logo/Ninja Kidz TV.png" group-title="美國",Ninja Kidz TV
+https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Nosey (1080p)" tvg-logo="http://10.1.0.119:5180/logo/Nosey (1080p).png" group-title="美國",Nosey (1080p)
+https://nosey-intl-1-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="OAN (720p)" tvg-logo="http://10.1.0.119:5180/logo/OAN (720p).png" group-title="美國",OAN (720p)
+https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="OnTV4U (1080p) [Geo-blocked]" tvg-logo="http://10.1.0.119:5180/logo/OnTV4U (1080p) [Geo-blocked].png" group-title="美國",OnTV4U (1080p) [Geo-blocked]
+https://stirr.b-cdn.net/stirr/playlist.m3u8
+#EXTINF:-1 tvg-name="PBS Antiques Road Trip (1080p)" tvg-logo="http://10.1.0.119:5180/logo/PBS Antiques Road Trip (1080p).png" group-title="美國",PBS Antiques Road Trip (1080p)
+https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
+#EXTINF:-1 tvg-name="PBS Antiques Roadshow (1080p) [Geo-blocked]" tvg-logo="http://10.1.0.119:5180/logo/PBS Antiques Roadshow (1080p) [Geo-blocked].png" group-title="美國",PBS Antiques Roadshow (1080p) [Geo-blocked]
+https://amg02333-pbs-amg02333c8-firetv-us-4239.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="PBS Kids Alaska (1080p)" tvg-logo="http://10.1.0.119:5180/logo/PBS Kids Alaska (1080p).png" group-title="美國",PBS Kids Alaska (1080p)
+https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
+#EXTINF:-1 tvg-name="PBS Kids Hawaii" tvg-logo="http://10.1.0.119:5180/logo/PBS Kids Hawaii.png" group-title="美國",PBS Kids Hawaii
+https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
+#EXTINF:-1 tvg-name="PBS Kids Mountain (1080p)" tvg-logo="http://10.1.0.119:5180/logo/PBS Kids Mountain (1080p).png" group-title="美國",PBS Kids Mountain (1080p)
+https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
+#EXTINF:-1 tvg-name="PBS Kids Pacific (1080p)" tvg-logo="http://10.1.0.119:5180/logo/PBS Kids Pacific (1080p).png" group-title="美國",PBS Kids Pacific (1080p)
+https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
+#EXTINF:-1 tvg-name="PBS National East (1080p) [Geo-blocked]" tvg-logo="http://10.1.0.119:5180/logo/PBS National East (1080p) [Geo-blocked].png" group-title="美國",PBS National East (1080p) [Geo-blocked]
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1 tvg-name="PBS Nature (1080p) [Geo-blocked]" tvg-logo="http://10.1.0.119:5180/logo/PBS Nature (1080p) [Geo-blocked].png" group-title="美國",PBS Nature (1080p) [Geo-blocked]
+https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="People Are Awesome (720p)" tvg-logo="http://10.1.0.119:5180/logo/People Are Awesome (720p).png" group-title="美國",People Are Awesome (720p)
+https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Pluto TV MTV Classic" tvg-logo="http://10.1.0.119:5180/logo/Pluto TV MTV Classic.png" group-title="美國",Pluto TV MTV Classic
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+#EXTINF:-1 tvg-name="Pluto TV The Walking Dead ESP (720p)" tvg-logo="http://10.1.0.119:5180/logo/Pluto TV The Walking Dead ESP (720p).png" group-title="美國",Pluto TV The Walking Dead ESP (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e82bb378601b80007b4bd78&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=925&terminate=false&userId=
+#EXTINF:-1 tvg-name="Portlandia" tvg-logo="http://10.1.0.119:5180/logo/Portlandia.png" group-title="美國",Portlandia
+https://amc-portlandia-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Red Apple 21 (Fairfax County Public Schools) (480p) [Not 24/7]" tvg-logo="http://10.1.0.119:5180/logo/Red Apple 21 (Fairfax County Public Schools) (480p) [Not 24/7].png" group-title="美國",Red Apple 21 (Fairfax County Public Schools) (480p) [Not 24/7]
+https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
+#EXTINF:-1 tvg-name="RightNow TV (720p)" tvg-logo="http://10.1.0.119:5180/logo/RightNow TV (720p).png" group-title="美國",RightNow TV (720p)
+https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="RVTV (1080p) [Geo-blocked]" tvg-logo="http://10.1.0.119:5180/logo/RVTV (1080p) [Geo-blocked].png" group-title="美國",RVTV (1080p) [Geo-blocked]
+https://rvtv-stirr.b-cdn.net/rvtv-on-stirr/playlist.m3u8
+#EXTINF:-1 tvg-name="SC Currents" tvg-logo="http://10.1.0.119:5180/logo/SC Currents.png" group-title="美國",SC Currents
+https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8
+#EXTINF:-1 tvg-name="SCVTV (Santa Clarita CA) (1080p)" tvg-logo="http://10.1.0.119:5180/logo/SCVTV (Santa Clarita CA) (1080p).png" group-title="美國",SCVTV (Santa Clarita CA) (1080p)
+https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
+#EXTINF:-1 tvg-name="Stadium (720p)" tvg-logo="http://10.1.0.119:5180/logo/Stadium (720p).png" group-title="美國",Stadium (720p)
+https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
+#EXTINF:-1 tvg-name="Super Simple Songs (1080p)" tvg-logo="http://10.1.0.119:5180/logo/Super Simple Songs (1080p).png" group-title="美國",Super Simple Songs (1080p)
+https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Survivor (1080p)" tvg-logo="http://10.1.0.119:5180/logo/Survivor (1080p).png" group-title="美國",Survivor (1080p)
+https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-name="Tastemade Travel [Geo-blocked]" tvg-logo="http://10.1.0.119:5180/logo/Tastemade Travel [Geo-blocked].png" group-title="美國",Tastemade Travel [Geo-blocked]
+https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8
+#EXTINF:-1 tvg-name="TBN Armenia" tvg-logo="http://10.1.0.119:5180/logo/TBN Armenia.png" group-title="美國",TBN Armenia
+https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
+#EXTINF:-1 tvg-name="TD Ameritrade Network (1080p)" tvg-logo="http://10.1.0.119:5180/logo/TD Ameritrade Network (1080p).png" group-title="美國",TD Ameritrade Network (1080p)
+https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
+#EXTINF:-1 tvg-name="The Carol Burnett Show (720p)" tvg-logo="http://10.1.0.119:5180/logo/The Carol Burnett Show (720p).png" group-title="美國",The Carol Burnett Show (720p)
+https://aegis-cloudfront-1.tubi.video/e17b8de5-e8b7-415a-8377-5707a2f9a727/playlist.m3u8
+#EXTINF:-1 tvg-name="The Country Network (1080p)" tvg-logo="http://10.1.0.119:5180/logo/The Country Network (1080p).png" group-title="美國",The Country Network (1080p)
+https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="The Hill TV (1080p)" tvg-logo="http://10.1.0.119:5180/logo/The Hill TV (1080p).png" group-title="美國",The Hill TV (1080p)
+https://jmp2.uk/stvp-US3300008FX
+#EXTINF:-1 tvg-name="The Johnny Carson Show (720p)" tvg-logo="http://10.1.0.119:5180/logo/The Johnny Carson Show (720p).png" group-title="美國",The Johnny Carson Show (720p)
+https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8
+#EXTINF:-1 tvg-name="The Pet Collective International (720p)" tvg-logo="http://10.1.0.119:5180/logo/The Pet Collective International (720p).png" group-title="美國",The Pet Collective International (720p)
+https://the-pet-collective-international-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="The Young Turks (1080p) [Geo-blocked]" tvg-logo="http://10.1.0.119:5180/logo/The Young Turks (1080p) [Geo-blocked].png" group-title="美國",The Young Turks (1080p) [Geo-blocked]
+https://amg01220-amg01220c1-firetv-us-5111.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Tin TV (720p) [Not 24/7]" tvg-logo="http://10.1.0.119:5180/logo/Tin TV (720p) [Not 24/7].png" group-title="美國",Tin TV (720p) [Not 24/7]
+https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
+#EXTINF:-1 tvg-name="Top Stories by Newsy (720p)" tvg-logo="http://10.1.0.119:5180/logo/Top Stories by Newsy (720p).png" group-title="美國",Top Stories by Newsy (720p)
+https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
+#EXTINF:-1 tvg-name="Vevo Latino (1080p)" tvg-logo="http://10.1.0.119:5180/logo/Vevo Latino (1080p).png" group-title="美國",Vevo Latino (1080p)
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="VOA TV Africa (1080p)" tvg-logo="http://10.1.0.119:5180/logo/VOA TV Africa (1080p).png" group-title="美國",VOA TV Africa (1080p)
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+#EXTINF:-1 tvg-name="WBRZ Weather Channel Baton Rouge LA (480p)" tvg-logo="http://10.1.0.119:5180/logo/WBRZ Weather Channel Baton Rouge LA (480p).png" group-title="美國",WBRZ Weather Channel Baton Rouge LA (480p)
+https://d2a6g6zgxepbwi.cloudfront.net/wbrz-edge/weather.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-name="WFTX News Fort Myers FL (720p)" tvg-logo="http://10.1.0.119:5180/logo/WFTX News Fort Myers FL (720p).png" group-title="美國",WFTX News Fort Myers FL (720p)
+https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
+#EXTINF:-1 tvg-name="WFXT-DT2 (1080p)" tvg-logo="http://10.1.0.119:5180/logo/WFXT-DT2 (1080p).png" group-title="美國",WFXT-DT2 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="WGTV-DT3" tvg-logo="http://10.1.0.119:5180/logo/WGTV-DT3.png" group-title="美國",WGTV-DT3
+https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
+#EXTINF:-1 tvg-name="WHBQ-DT1 (1080p)" tvg-logo="http://10.1.0.119:5180/logo/WHBQ-DT1 (1080p).png" group-title="美國",WHBQ-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-name="Wine Watches & Whiskey (1080p)" tvg-logo="http://10.1.0.119:5180/logo/Wine Watches & Whiskey (1080p).png" group-title="美國",Wine Watches & Whiskey (1080p)
+https://www-on-stirr.b-cdn.net/Wine-Watches-and-Whiskey/playlist.m3u8
+#EXTINF:-1 tvg-name="Wired2Fish (720p) [Geo-blocked]" tvg-logo="http://10.1.0.119:5180/logo/Wired2Fish (720p) [Geo-blocked].png" group-title="美國",Wired2Fish (720p) [Geo-blocked]
+https://wire2fish-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="WITI-DT1 (1080p)" tvg-logo="http://10.1.0.119:5180/logo/WITI-DT1 (1080p).png" group-title="美國",WITI-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="WJBK-DT1" tvg-logo="http://10.1.0.119:5180/logo/WJBK-DT1.png" group-title="美國",WJBK-DT1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8
+#EXTINF:-1 tvg-name="WJXT News4JAX (Jacksonville FL) (720p)" tvg-logo="http://10.1.0.119:5180/logo/WJXT News4JAX (Jacksonville FL) (720p).png" group-title="美國",WJXT News4JAX (Jacksonville FL) (720p)
+https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
+#EXTINF:-1 tvg-name="WLTV-DT1 [Geo-blocked]" tvg-logo="http://10.1.0.119:5180/logo/WLTV-DT1 [Geo-blocked].png" group-title="美國",WLTV-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
+#EXTINF:-1 tvg-name="WNYW-DT1 (1080p)" tvg-logo="http://10.1.0.119:5180/logo/WNYW-DT1 (1080p).png" group-title="美國",WNYW-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="World Channel (1080p)" tvg-logo="http://10.1.0.119:5180/logo/World Channel (1080p).png" group-title="美國",World Channel (1080p)
+https://world.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-name="WPTV News West Palm Beach FL (720p)" tvg-logo="http://10.1.0.119:5180/logo/WPTV News West Palm Beach FL (720p).png" group-title="美國",WPTV News West Palm Beach FL (720p)
+https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
+#EXTINF:-1 tvg-name="WTTG-DT1 (1080p)" tvg-logo="http://10.1.0.119:5180/logo/WTTG-DT1 (1080p).png" group-title="美國",WTTG-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
+#EXTINF:-1 tvg-name="WTXF-DT1 (1080p)" tvg-logo="http://10.1.0.119:5180/logo/WTXF-DT1 (1080p).png" group-title="美國",WTXF-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
+#EXTINF:-1 tvg-name="Xplore" tvg-logo="http://10.1.0.119:5180/logo/Xplore.png" group-title="美國",Xplore
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-name="Yahoo! Finance (1080p)" tvg-logo="http://10.1.0.119:5180/logo/Yahoo! Finance (1080p).png" group-title="美國",Yahoo! Finance (1080p)
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="Young Hollywood [Geo-blocked]" tvg-logo="http://10.1.0.119:5180/logo/Young Hollywood [Geo-blocked].png" group-title="美國",Young Hollywood [Geo-blocked]
+https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8
+#EXTINF:-1 tvg-name="ABC News Live" tvg-logo="http://10.1.0.119:5180/logo/ABC News Live.png" group-title="美國",ABC News Live
+https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
