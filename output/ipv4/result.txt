@@ -1,4 +1,11 @@
 成人,#genre#
+MyCamTV Young Girls,https://live.mycamtv.com/young.m3u8
+MyCamTV Arab Girls,https://live.mycamtv.com/arab.m3u8
+MyCamTV Ebony Girls,https://live.mycamtv.com/ebony.m3u8
+MyCamTV White Girls,https://live.mycamtv.com/white.m3u8
+MyCamTV Girls Squirt,https://live.mycamtv.com/squirt.m3u8
+MyCamTV Skinny Girls,https://live.mycamtv.com/skinny.m3u8
+MyCamTV Medium Girls,https://live.mycamtv.com/medium.m3u8
 
 日本,#genre#
 Fuji TV,https://fujitv4.mov3.co/hls/fujitv.m3u8
@@ -6,7 +13,6 @@ NHK World-Japan,https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 NHK World-Japan,https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 
 韓國,#genre#
-TBS Seoul (720p),https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 
 美國,#genre#
 48 Hours,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e925bc68d18a00077bb990/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c78ce00-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d510e704-124c-497f-89cb-732e27dd295a
@@ -220,7 +226,6 @@ Wild 'N Out,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hl
 Wipeout Xtra (1080p),https://amg00627-banijaygroup-wipeoutxtraau-samsungau-ashbl.amagi.tv/playlist/amg00627-banijaygroup-wipeoutxtraau-samsungau/playlist.m3u8
 WJAX-DT1 (1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
 WMPT-DT2 (PBS Create),https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
-WPS TV (360p),https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
 WSB-DT1 (1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews-ono/playlist.m3u8
 WSOC-DT1 (1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
 WWON TV CH 48,https://tv2.fastcast4u.com:3943/stream/play.m3u8
