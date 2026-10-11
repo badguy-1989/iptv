@@ -1,11 +1,4 @@
 成人,#genre#
-MyCamTV Young Girls,https://live.mycamtv.com/young.m3u8
-MyCamTV Arab Girls,https://live.mycamtv.com/arab.m3u8
-MyCamTV Ebony Girls,https://live.mycamtv.com/ebony.m3u8
-MyCamTV White Girls,https://live.mycamtv.com/white.m3u8
-MyCamTV Girls Squirt,https://live.mycamtv.com/squirt.m3u8
-MyCamTV Skinny Girls,https://live.mycamtv.com/skinny.m3u8
-MyCamTV Medium Girls,https://live.mycamtv.com/medium.m3u8
 
 日本,#genre#
 Fuji TV,https://fujitv4.mov3.co/hls/fujitv.m3u8
@@ -174,7 +167,6 @@ Revry,https://linear-43.frequency.stream/dist/24i/43/hls/master/playlist.m3u8
 Revry LatinX,https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
 Revry Queer (720p),https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
 RiffTrax,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8982-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1ae8efba-578b-4c2b-a7a1-ec96f6d4bf26
-Rifle Community TV RCTV (Rifle CO) (720p),https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 Roar (1080p),https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 Ryan and Friends (1080p),https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 Scientology Network (1080p),https://stream6.scientology.org/master.m3u8
