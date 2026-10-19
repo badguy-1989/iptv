@@ -92,7 +92,6 @@ Newsmax TV (720p),https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3
 Ninja Kidz TV,https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
 Nosey (1080p),https://nosey-intl-1-samsungau.amagi.tv/playlist.m3u8
 OAN (720p),https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
-OnTV4U (1080p) [Geo-blocked],https://stirr.b-cdn.net/stirr/playlist.m3u8
 PBS Antiques Road Trip (1080p),https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
 PBS Antiques Roadshow (1080p) [Geo-blocked],https://amg02333-pbs-amg02333c8-firetv-us-4239.playouts.now.amagi.tv/playlist.m3u8
 PBS Kids Alaska (1080p),https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
@@ -107,7 +106,6 @@ Pluto TV The Walking Dead ESP (720p),https://service-stitcher.clusters.pluto.tv/
 Portlandia,https://amc-portlandia-1-us.xumo.wurl.tv/playlist.m3u8
 Red Apple 21 (Fairfax County Public Schools) (480p) [Not 24/7],https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 RightNow TV (720p),https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
-RVTV (1080p) [Geo-blocked],https://rvtv-stirr.b-cdn.net/rvtv-on-stirr/playlist.m3u8
 SC Currents,https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8
 SCVTV (Santa Clarita CA) (1080p),https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
 Stadium (720p),https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
