@@ -2,7 +2,6 @@
 
 日本,#genre#
 NHK World-Japan,https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-NHK World-Japan,https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 
 韓國,#genre#
 TBS Seoul (720p),https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
